@@ -78,5 +78,102 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 
+Absolutely, Abhisek! Here's your content rewritten in a **modern, visually appealing**, **emoji-enhanced**, and **structured** format perfect for your portfolio, GitHub README, or personal resource hub.
+
+---
+
+# 📚 Developer Resource Hub – 2025 Edition
+
+> Curated by **Abhisek Panda** 🧑‍💻 | A collection of top **career resources**, **job opportunities**, and **useful learning platforms** for aspiring developers!
+
+---
+
+## 🔗 Useful & Must-Bookmark Resource Links
+
+| 📌 **Resource**                                                                                                                               | 📘 **Details**                                                                        |
+| --------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
+| 🗓️ [Off-Campus Internship Calendar 2025](https://aicteinternship.in/off-campus-internship-calendar-2025/)                                    | AICTE’s official list of ongoing/off-campus internships (updated regularly).          |
+| 🧠 [All Hacks – Reskilll Events](https://reskilll.com/allhacks)                                                                               | Participate in hackathons, learn new tools, and earn swags + certificates.            |
+| 🎥 [YouTube – Content Creation Tips](https://youtu.be/RHi26oDdKQI?si=HDvXGBkcJSITNq7s)                                                        | Learn how to create quality content for devs and build a YouTube presence.            |
+| 📄 [Placement Resources (Google Sheet)](https://docs.google.com/spreadsheets/d/1WM1qg_gjJRms5d4mcZslO7dEgMqxlbnu0UIYw-7WgAA/edit?gid=0#gid=0) | Collection of top coding sheets, resume tips, HR interview prep, DSA plans, and more. |
+| 📘 [Ebooks Collection (Google Sheet)](https://docs.google.com/spreadsheets/d/1mNvWvTQaA_GXLAiHICi70BYRXBPX-yTpTdfZNyJGgcM/htmlview)           | 100+ tech books including JavaScript, DSA, Python, AI, DBMS – FREE to access.         |
+
+---
+
+## 💼 Indian IT Companies – Mass & Mid-Level Hiring
+
+> 📍 For freshers aiming for **early tech jobs** or internship-to-FT roles.
+
+| 🏢 Company                | 🎯 Job Roles            | 💰 CTC Range     | 🧠 Important Topics                   | 📈 Min CGPA |
+| ------------------------- | ----------------------- | ---------------- | ------------------------------------- | ----------- |
+| 🏢 **TCS**                | Ninja, Digital          | ₹3.36 – ₹7 LPA   | Aptitude, DSA, Email Writing          | 6.0+        |
+| 💼 **Infosys**            | SE, SP, DSE             | ₹3.6 – ₹9 LPA    | Aptitude, Pseudocode, DBMS            | 6.5+        |
+| 🧪 **Wipro**              | Project Engineer, Turbo | ₹3.5 – ₹6.5 LPA  | OOPs, OS, Coding                      | 6.0+        |
+| 🖥️ **HCLTech**           | GET                     | ₹3.5 – ₹4 LPA    | Java, Reasoning, DBMS, OS             | 6.0+        |
+| 🌐 **Cognizant**          | GenC, GenC Elevate      | ₹4 – ₹6.75 LPA   | SQL, CN, DSA                          | 6.5+        |
+| 🔧 **Capgemini**          | Analyst, Sr Analyst     | ₹3.8 – ₹7.5 LPA  | Game Aptitude, OOPs                   | 6.0+        |
+| 📲 **Tech Mahindra**      | ASE                     | ₹3.25 – ₹5 LPA   | SDLC, Aptitude, Basic Programming     | 6.0+        |
+| ☁️ **Accenture**          | ASE                     | ₹4.5 – ₹6.5 LPA  | Cloud Basics, Aptitude, Communication | 6.5+        |
+| 🔁 **LTIMindtree**        | Software Engineer       | ₹3.5 – ₹6 LPA    | Java/Python, DBMS, Projects           | 6.0+        |
+| 🧑‍💻 **IBM India**       | ASE                     | ₹4.25 – ₹6.5 LPA | Java, SQL, DSA, Cloud                 | 6.0+        |
+| 💡 **Persistent**         | Software Developer      | ₹4.5 – ₹7.5 LPA  | DSA, OS, Java                         | 6.0+        |
+| 🧠 **Mindtree**           | Software Engineer       | ₹3.5 – ₹5 LPA    | Java, OOPs, DBMS                      | 6.0+        |
+| 📊 **Deloitte**           | Analyst                 | ₹6.5 – ₹8.5 LPA  | Case Studies, SQL, Aptitude           | 6.5+        |
+| 💼 **Hexaware**           | Graduate Trainee        | ₹3.5 – ₹4 LPA    | Reasoning, Java Basics                | 6.0+        |
+| 🔍 **Zensar**             | Trainee Engineer        | ₹3.5 – ₹4 LPA    | Aptitude, Java, SQL                   | 6.0+        |
+| 🔣 **Mphasis**            | Trainee Associate       | ₹3.25 – ₹4.5 LPA | DBMS, C/C++, Aptitude                 | 6.0+        |
+| 🛠 **Birlasoft**          | Trainee Engineer        | ₹3.6 LPA         | Java Basics, Logical Reasoning        | 6.0+        |
+| 🔌 **L\&T Tech Services** | Engineer                | ₹3.6 – ₹5 LPA    | Aptitude, Embedded C                  | 6.0+        |
+| 💡 **NTT Data**           | Associate Engineer      | ₹3.5 – ₹4.5 LPA  | SQL, Aptitude, Java                   | 6.0+        |
+| 🚗 **KPIT**               | Embedded Engineer       | ₹4 – ₹5.5 LPA    | C++, Automotive Basics                | 6.0+        |
+| 🧪 **Virtusa**            | Engineer Trainee        | ₹3.5 – ₹5 LPA    | Coding, Java, SQL                     | 6.0+        |
+
+---
+
+## 🚀 High-Paying Product-Based Companies (Dream Roles)
+
+> 🏆 Aim higher with strong DSA, system design, and problem-solving skills.
+
+| 🏢 Company            | 🎯 Role            | 💰 CTC (INR)  | 🧠 Key Skills Needed                   | 📈 Min CGPA |
+| --------------------- | ------------------ | ------------- | -------------------------------------- | ----------- |
+| 💼 **Google India**   | Software Engineer  | ₹30 – ₹40 LPA | DSA, OS, CN, ML, System Design         | 7.0+        |
+| 💻 **Microsoft**      | SDE                | ₹30 – ₹45 LPA | DSA, DBMS, OOPs, Cloud                 | 7.0+        |
+| 🛒 **Amazon India**   | SDE-1              | ₹25 – ₹30 LPA | DSA, Problem Solving, CN               | 7.0+        |
+| ✍️ **Adobe India**    | Software Engineer  | ₹25 – ₹30 LPA | Algorithms, DBMS, Aptitude             | 7.0+        |
+| ☁️ **VMware**         | MTS                | ₹20 – ₹25 LPA | Virtualization, OS, System Programming | 7.0+        |
+| 🛠 **Atlassian**      | Software Engineer  | ₹25 – ₹28 LPA | Backend Dev, Cloud, DSA                | 7.0+        |
+| 🚖 **Uber**           | Software Engineer  | ₹35 – ₹40 LPA | ML, DSA, System Design                 | 7.0+        |
+| 💹 **Arcesium**       | Software Engineer  | ₹25 – ₹30 LPA | Finance + Programming, DSA             | 7.0+        |
+| ☁️ **Salesforce**     | SDE                | ₹24 – ₹28 LPA | Apex, OOPs, Cloud Basics               | 7.0+        |
+| 👔 **LinkedIn**       | Software Engineer  | ₹35 – ₹40 LPA | Product Thinking, Web Dev, DSA         | 7.0+        |
+| 💬 **Sprinklr**       | Product Engineer   | ₹20 – ₹22 LPA | Backend, DevOps, DSA                   | 7.0+        |
+| 📦 **Flipkart**       | SDE-1              | ₹20 – ₹26 LPA | System Design, DSA, Project Work       | 7.0+        |
+| 🧾 **CRED**           | Software Dev       | ₹23 – ₹30 LPA | Web Dev, Product Dev, Testing          | 7.0+        |
+| 🌐 **Media.net**      | Software Engineer  | ₹10 – ₹12 LPA | DSA, CN, OS                            | 7.0+        |
+| 💹 **DE Shaw**        | Software Engineer  | ₹25 – ₹28 LPA | Math, Algorithms, DBMS                 | 7.0+        |
+| 🏦 **Goldman Sachs**  | Engineer Analyst   | ₹10 – ₹15 LPA | Aptitude, Programming, DBMS            | 7.0+        |
+| 🧠 **Rubrik**         | Software Engineer  | ₹30 – ₹35 LPA | Distributed Systems, DSA               | 7.0+        |
+| 💻 **Nutanix**        | Software Developer | ₹28 – ₹32 LPA | OS, Systems Programming                | 7.0+        |
+| 📈 **Tower Research** | Software Developer | ₹35 – ₹40 LPA | Maths, C++, Algorithms                 | 7.0+        |
+| 🌟 **Zeta (Directi)** | Software Engineer  | ₹25 – ₹30 LPA | Backend, Networking, OS                | 7.0+        |
+
+---
+
+## 🧾 Want More?
+
+✨ Need this in another format? Get it as:
+
+* 📄 **Downloadable PDF**
+* 🧠 **Notion Template**
+* 📊 **Excel/CSV Sheet**
+
+👉 Just ask and I’ll share the format that works best for you!
+
+---
+
+> **"Success comes when preparation meets opportunity."** — Let this resource be your preparation 🧠🔥
+> Made with ❤️ by **Abhisek Panda**
+
+Let me know if you'd like this converted into a **Notion workspace**, **GitHub README**, or a **hosted page** with shareable styling (HTML + Tailwind).
 
 

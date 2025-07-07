@@ -78,10 +78,6 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 
-Absolutely, Abhisek! Here's your content rewritten in a **modern, visually appealing**, **emoji-enhanced**, and **structured** format perfect for your portfolio, GitHub README, or personal resource hub.
-
----
-
 # 📚 Developer Resource Hub – 2025 Edition
 
 > Curated by **Abhisek Panda** 🧑‍💻 | A collection of top **career resources**, **job opportunities**, and **useful learning platforms** for aspiring developers!
@@ -159,21 +155,6 @@ Absolutely, Abhisek! Here's your content rewritten in a **modern, visually appea
 
 ---
 
-## 🧾 Want More?
-
-✨ Need this in another format? Get it as:
-
-* 📄 **Downloadable PDF**
-* 🧠 **Notion Template**
-* 📊 **Excel/CSV Sheet**
-
-👉 Just ask and I’ll share the format that works best for you!
-
----
-
 > **"Success comes when preparation meets opportunity."** — Let this resource be your preparation 🧠🔥
 > Made with ❤️ by **Abhisek Panda**
-
-Let me know if you'd like this converted into a **Notion workspace**, **GitHub README**, or a **hosted page** with shareable styling (HTML + Tailwind).
-
 

@@ -155,6 +155,37 @@
 
 ---
 
+
+![Remote](https://github.com/user-attachments/assets/7c599ed4-02c6-4d32-b0a2-fcc6a8eea86c)
+
+
+### 🧭 Remote Job – Step-by-Step (For Freshers & Graduates)
+
+| **Step** | **Objective**                       | **Details**                                                                                            | **Resources/Tools**                                                                                                                                                         |
+| -------- | ----------------------------------- | ------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1️⃣      | **Choose a Programming Language**   | Pick one language (JavaScript, Python, Java, C++) and learn syntax, OOP, error handling.               | freeCodeCamp, GeeksforGeeks                                                                                                                                                 |
+| 2️⃣      | **Learn Git & GitHub**              | Understand version control, forking, commits, pull requests.                                           | [Git Handbook](https://guides.github.com/introduction/git-handbook/), GitHub                                                                                                |
+| 3️⃣      | **Master DSA**                      | Cover Arrays, Linked Lists, Trees, Graphs, Recursion, Sorting, etc.                                    | [LeetCode DSA Sheet](https://github.com/speedyapply/2025-SWE-College-Jobs#leetcode-dsa-roadmap)                                                                             |
+| 4️⃣      | **Understand CS Fundamentals**      | Learn OS, DBMS, Networking, OOPs, System Design basics.                                                | CS50, Operating System notes                                                                                                                                                |
+| 5️⃣      | **Build Strong Projects**           | Create 2–3 full-stack projects with real-world use cases (e.g. Task Manager, Chat App).                | React, Node.js, MongoDB, Tailwind CSS                                                                                                                                       |
+| 6️⃣      | **Write Clean READMEs**             | Add tech stack, features, demo, and how-to-run steps in each project repo.                             | GitHub                                                                                                                                                                      |
+| 7️⃣      | **Create a Portfolio Website**      | Showcase your skills, projects, resume, and contact info.                                              | Next.js, Vercel, Netlify                                                                                                                                                    |
+| 8️⃣      | **Update LinkedIn Profile**         | Add headline, about, featured projects, skills, and open to work tags.                                 | LinkedIn                                                                                                                                                                    |
+| 9️⃣      | **Write an ATS-Friendly Resume**    | Focus on skills, projects, internships, and achievements. 1 page only.                                 | [SpeedyApply Resume Guide](https://github.com/speedyapply/2025-SWE-College-Jobs#-resume-resources)                                                                          |
+| 🔟       | **Start Applying to Remote Jobs**   | Use job boards and track your applications. Apply daily with custom resumes.                           | [RemoteOK](https://remoteok.io/), [We Work Remotely](https://weworkremotely.com/), [SpeedyApply Tracker](https://github.com/speedyapply/2025-SWE-College-Jobs#job-trackers) |
+| 1️⃣1️⃣   | **Send Cold Emails / DMs**          | Reach out to recruiters, startup founders, or engineers with personalized messages and your portfolio. | LinkedIn, Email                                                                                                                                                             |
+| 1️⃣2️⃣   | **Prepare for Interviews**          | Practice LeetCode Top 75, system design, and behavioral questions (STAR method).                       | Pramp, Interviewing.io, Grokking SD                                                                                                                                         |
+| 1️⃣3️⃣   | **Do Mock Interviews**              | Practice coding interviews and get peer feedback.                                                      | Pramp, friends, local communities                                                                                                                                           |
+| 1️⃣4️⃣   | **Contribute to Open Source**       | Make your GitHub active and collaborate with real teams.                                               | [Good First Issues](https://goodfirstissue.dev/), Hacktoberfest                                                                                                             |
+| 1️⃣5️⃣   | **Explore Freelancing/Internships** | Get short-term gigs or unpaid internships to gain experience.                                          | AngelList, Internshala, Turing, Upwork                                                                                                                                      |
+| 1️⃣6️⃣   | **Join Communities**                | Stay active in Discord servers, GitHub discussions, Reddit tech forums.                                | EddieHub, MLH, Dev.to                                                                                                                                                       |
+| 1️⃣7️⃣   | **Refine and Repeat**               | Keep improving resume, LinkedIn, GitHub profile. Iterate projects. Keep applying.                      | Notion/Trello to track progress                                                                                                                                             |
+
+---
+
+
+---
+
 > **"Success comes when preparation meets opportunity."** — Let this resource be your preparation 🧠🔥
 > Made with ❤️ by **Abhisek Panda**
 

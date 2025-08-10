@@ -1,8 +1,6 @@
----
 # 🚀 500 Tech Project Ideas Across 50 Domains
 
-Welcome to a comprehensive list of 500 project ideas, designed to spark your creativity and guide you through various technology domains. Whether you're a student, a professional, or just someone looking to learn, this list offers a diverse range of projects from foundational web development to cutting-edge quantum computing.
----
+## Welcome to a comprehensive list of 500 project ideas, designed to spark your creativity and guide you through various technology domains. Whether you're a student, a professional, or just someone looking to learn, this list offers a diverse range of projects from foundational web development to cutting-edge quantum computing.
 
 ## 1. 🌐 Web Development
 

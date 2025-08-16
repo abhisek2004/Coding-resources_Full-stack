@@ -1,0 +1,28 @@
+1st round: Online test
+There were 38 questions. 18 from number series and 20 numerical ability. In number series we had to predict the next number in the series. In numerical ability you need to practice percentage, profit and loss, average and alligations, time and work, time and distance. The worst part - each question came with individual timer. One has to answer a question within 2mins and 15 secs.
+
+2nd round: English Language Test
+In this round they gave us a scenario in about 200 words(approx). We had to summarize it in our own words in six lines or less.
+
+3rd round: Group Discussion
+They divided us in group of 15 and gave us about 30 mins to discuss. My topic was "Credit cards - it's advantages and disadvantages'. 
+
+4th & 5th round: Technical and HR interview
+The interviewer asked me less questions and shared more about IBM culture with me. Anyway in my case it was around 20 - 25 mins. They mainly ask questions from the skills that you mention in your CV. Some of the questions that I was asked are as follow:
+
+Q. Tell me something about yourself.
+Q. What was your favorite subject at College?
+Q. C is quite obselete these days, why do you still prefer C?
+Q. Do you know Java?
+Q. What is object?
+Q. What is object Oriented Language?
+Q. Can any application/software be made using an object oriented language?
+Q. What is SDLC? Explain?
+Q. What is meta model?
+Q. What do you know about DBMS?
+Q. What databases have you used? And which one do you think is better and why?
+Q. Suppose I am a layman, explain me what this SQL thing is all about?
+Q. Some basic queries like quering out data from 3 tables and all.
+Q. Suppose you are selected today and after 6 month you get an opportunity of higher study from a top University, will you leave IBM?
+Q. Do you have any problem relocating?
+Q. Do you have any question?

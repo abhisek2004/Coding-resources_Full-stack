@@ -1,0 +1,130 @@
+Aptitude Questions: No need to prepare whole book. Prepare only:
+1) Time and work
+2) Time and Distance
+3) Percentages
+4) Averages
+5) Ratio and Proportions
+Believe me very basic questions. You can easily hit 10 out of 18. The mail concern is timer. It gives you 2.15 minute for each question. After 2.15 minutes question will automatically remove from the screen.5/1/14:
+2)9,2,5,9,5,11,13,7,16,17,9 3)1,2,8,8,1,0,9,9,2,3 3)0.5,2,3,4.5,675 4)10,12,-36,-7,-5,15,19,21 5)4,2,1,2,4,8,2,10,0.5 6)81,6,22,26,54,58,86,90 7)5,1,2,8,8,1,0,9,9,2,3 8)96,64,128,192,128,256,288,192 9)7,19,43,91,187 10)5,6,6.5,6.5,8,7,9.5 11)6,2,3,10,15,26,35,50 
+
+1)2 7 22 67 202 ? 2)1.386 1.39 1.4 1 3.823 3.82 3.8 4 4.277 ? 3)3^3 2^2 23 8^3 7^2 463 2^3 1^2 ? 4)2 1 3 4 3 5 6 5 7 8 ? 5)4200 600 100 20 5 ? 6)1 2 3 5 7 10 13 17 ? 7)2^2 2^3 2^-1 8^4 8^7 8^-3 11^5 11^3 11^2 14^6 14^9 ? 8)2^11 1024 2^9 256 2^7 ? 9)4 3 8 7 14 13 22 21 ? 10)4 8 4 32 6 9 3 54 8 10 2 ? 11)1 4 9 25 49 ? 12)9 1 8 4 7 9 6 16 5 25 4 ? 13)12 25 26 14 29 30 16 ? 14)7 19 43 91 187 ? 15)0 1 2 3 0 3 1 4 0 2 5 ? 16)11.6 2.3 9.7 11.3 2.1 9.6 11 1.9 9.5 17)6 9 18 6 36 3 54 ?
+-----------
+
+1st round - series 18 que + apti 18 ques no -ve marks time 2.min 
+apti - percentage, time distance , ratio n proportion basic ques but lengthy calculations.. so practise well
+2nd round - english assessment test 22 ques ,20 min, no -ve marking, mcq
+some ques which i remember
+1. salutation of business letter n format like Dear Mr. Smith : 
+2. blue pen in signatures used to prevent photocopy (T/F)
+3. Enclosures (3) meaning
+4. active voice
+5. Passive voice
+6. Ranny was with sally n me.
+Ranny was with sally n I.
+Ranny was with me n Sally. find correct one
+7.ques on correct usage of comma
+8.what to include in business letter
+- purpose
+- reason of writing
+- For whom intended
+- all of above
+9.Miss Sheela is dancer. Funny , arrogant and stylish. find type of error
+- run out error
+- sentence fragment (correct)
+10. sentence with correct use of capitalize words
+11. Meaning of Sexist lang
+- words to distinguish betn male and female
+12. whether assistant can sign on behalf of administrative officer . (T/F)
+13. how to end business letter
+- regards
+- sincerely
+3rd round - Tech + HR interview 15-20 min
+basic hr ques , ur project, some basic prog may b asked like reverse
+usually check confidence n communication..
+
+IBM series question which i had written on my rough sheet:
+1. 1,3,3,2,8,10,3,4,12,4,8,?
+2. 8,0.5,16,4,15,0.3,50,4.5,6,0.2,30,?
+3. 5/6,1/3,1/2,1/2,2/8,1/4,5/6,1/6,2/3,1/2,1/3,?
+4. 3/2,9/4,9/4,7/2,49/2,49/4,4/3,16/9,16/9,8/3,?
+5. 2,6,5,14,11,26,17,?
+6. 6,18,21,8,11,33,2,6,9,5,8,24,7,21,?
+7. 9,4,16,6,36,21,441,?
+8. 7,-35,-34,-3,15,16,4,?
+9. 2,7,-35,7,12,-60,5,10,?
+10. 4,3,6,5,11,10,19,18,30,29,?An INSTRUCTION regarding online aptitude test to all who are going to appear for IBM:
+After solving a question and marking the correct option click the next button immediately to submit your answer before the time will elapse because after the time elapse, your answer never going to submit whether you mark it or not.
+and there is no option for submit your answer on the page.
+Lots of guys doing the same mistake and because of that only they are out from 1st round,so guys don't do these silly mistakes after preparing a lot.
+
+IBM offcampus placement process:
+*1st round was online aptitude test containing questions of 18 number series and 18 of aptitude.
+go through m4maths and indiabix placement papers of ibm for this round,you will definitely get either same ques or ques on same pattern.
+and also prepare well because today we get to know that in banglore drive they put very high cutoff of around 70%.
+*2nd round was online english assessment test,22 ques 20 min.
+ques related to email writing,document,active passive voice,comma,semicolon etc are there and in this round also i got similar ques posted on indiabix.
+*i guess they did all their screening in 1st two rounds so there was no GD round.
+*3rd round was tech+hr interview,which was mainly HR in my case but also prepare with technical ques and and whatever u write in your resume and also puzzles,projects.
+tell me abt urself and project detail with diagram,these 2 questions are asked with almost everyone.
+So guys work hard who are going to appear for IBM drive because there is no shortcut for success.
+
+IBM Question Pattern:
+First round of written exam will consist of two sections.
+
+Number Series (18 questions): Each questions needs to be answered in 2.15 minutes
+Aptitude (18 questions): Each questions needs to be answered in 2.15 minutes
+There will be a timer on the computer screen for each question and a new question will be displayed after the time limit for a particular question gets completed. There was no negative marking.
+
+The candidates who qualify the first round are eligible for the second round which is a written test of English. In this section there were 22 questions which needed to be answered in 20 minutes. There will be no timer on the computer screen and so you have to check time on your watch of the system time for your own reference.
+
+IBM Questions:
+Series:
+
+Tips: Most of the questions will have long series. So there will be 2 or three different series in a single question. Try to keep that in mind.
+
+Here are a few questions that were asked in my set
+
+1,3,3,2,8,10,3,4,12,?
+7776, 625, 64,9,?
+7,-14,-4,15,-30,-20,-21,?
+7,-35, -34, -3, 15, 16, ?
+4,2,4,8,6,8,,16,?
+3,7,10,8,4,12,0,5,5,3,2,?
+3,2,1,4,5,4,5,1,0,6,3,2,?
+507,169,248,62,36,12,168,42,168,?
+2,3,10,15,26,35,50,?
+7,4,6,3,4.5,1.5,2.25,?
+7.2,2.2,3.2,16,11,12,60,55,56,?
+0.7,1.2,1.2,2.2,1.7,3.2,2.2,4.2,?
+English Questions:
+
+Most of the questions in this section were on business and formal letters. There were also 2-3 questions on active and passive voice. There were 1-2 questions in which we had to put the punctuation marks in the right place.
+
+Name is Roger Smith, who is also the president. What is the proper salutation?
+Dear Mr. Roger Smith
+Dear Mr. Roger
+Dear Mr. Smith
+Dear President Smith
+A formal business letter contains
+Regards
+Sincerely
+Respectfully
+Both 2 & 3
+Find the sentence in active voice
+The car has been driven by him
+He has cleaned the car
+It will be more complex algorithm
+To recognize that the signature is original and not a photocopy, we usually sign it in blue ink
+True
+False
+Which of the following will you choose for a short notice to change the lunch hours?
+Specific details
+Context and problem
+Regarding lunch hours
+All the above
+
+n The answer for the english assessment question
+you have to write an email.. soo please goo through the email etiquettes
+
+and you will be given a scenario where u are representing your team and being a senior developer you have to write an email
+to the business team

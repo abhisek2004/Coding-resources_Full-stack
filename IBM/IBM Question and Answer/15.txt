@@ -1,0 +1,55 @@
+you will be given a scenario where u are representing your team and being a senior developer you have to write an email
+to the business team
+
+
+how to write the mail .. that u have to figure out..
+ I,m providing the sample email below..
+
+
+From:	xyzzz/India/IBM@IBMIN
+	
+To:	abcc/India/IBM@IBMIN, 
+	
+Cc:	********/India/IBM@IBMIN, ********/India/Contr/IBM@IBMIN, ********/India/IBM@IBMIN,
+
+
+Subject : Birt error report found in UI **-**-***** (in the subject line no upper case should be used, it can be used 
+										     when u have to emphasise on something.. but that is very rare.. in this
+											example BCM is in uppercase because BCM is the tool.
+
+ Dear PM,--- (Salutation should be proper)
+
+Please be informed that the we are concerned about the error  you are facing.
+Kindly validate/ correct the errors/warnings to have correct data. 
+
+For any further queries or clarifications, please write to: *********/India/Contr/IBM. You may also contact BCP COT at: +91 80 **** / **** Mon - Fri between 9:30 AM - 6:30 PM IST.
+
+Note: These error/warning notifications mails would be sent so that the data recorded in Maximo application are error-free and if not rectified within 30 days the same will be escalated to your PAL. 
+
+Thanks and Regards, ....... (the ending should be proper, dnt use thanks because its a kind of SLANG, avoid using it)
+BCM team.
+(below you can give your designation and some official details if required)
+
+
+Thanks and Regards,
+
+Subhransu sekhar Sahoo
+Software Developer
+SAP BI
+IBM India Pvt. Ltd.
+OZONE 3,SP infocity park
+Phone:  +91-*******
+email: ********
+
+
+
+
+
+
+Suppose if u r replying to someones question in the mail then add Re: then the subject
+
+Example (Re: DSV error notification in the BCM application for the project **-**-*****)
+
+
+
+

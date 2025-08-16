@@ -1,0 +1,181 @@
+1)A printer started its work at 8.15 a.m and ended its work at 9.20 p.m. It was interrupted twice for the time duration of 42 min. It can print 100 instructions per hour. Approximate how many instructions it can print?
+
+ANS:
+-------
+
+Time duration from 8.15am to 9.20pm = 13 hours 5 min = 785 minutes
+stoppage for 2*42 min= 84 min
+effective running time = 701 min
+in 60 min 100 instructions are printed
+in 1 min = 100/60 instructions
+in 701 min , we have 701*100/ 60 = 1168.33 instructions
+
+2)Printer A prints 8192 character per min and printer B prints 13862 character per min four character are equal to one word. Printer A starts at 7:15 am while Printer B starts at 7:29 am then at what time both will have same no of words printed .
+
+ANS:
+-------
+
+"four character are equal to one word"
+8192/4*(t+14)=13862/4*t
+8192*(t+14)=13862*t yields the same result
+t=20.2272 minutes = about 20 min 14 sec
+7:49:14 am
+
+3)two glasses were filled with 1/3 and 1/4 milk. they were filled with water &then mixed in tumbler. what is the percentage of milk in the resultant.
+
+ANS:
+-------
+total milk =1/3 + 1/4 =7/12
+total water = 2/3 + 3/4 = 17/12
+total vol = 2
+so % of milk =(7/12/2)*100=175/6
+
+4)Some people are standing square. From them 32 are removed and then form a small square and then 8 more removed. now we cannot  form the square. so how many people are there at the beginning?
+
+
+ANS:
+------
+
+ans is 81
+
+initial 81 form square and removing 32 gives 49(7*7) which also give square.
+romoving 8 results in 41 which is not perfect square
+
+
+5)A COMPANY BOUGHT TWICE AS MANY SMALL ENVOLOPES AS LARGE ENVOLOPES .IT USED UPTO 1/13 OF THE SMALL ENVOLOPES AND 5/6 OF THE LARGE ENVOLOPES.WHAT FRACTION OF THE TOTAL NUMBER WAS LEFT UNUSED?
+
+ANS:
+------
+Let small envelopes bought=2x
+Large envelopes bought=x
+Total No. of envelopes bought=x+2x=3x
+Small envelope unused=(12/13)*2x=24x/13
+Large envelope unused=(1/6)=x/6
+Total envelope unused=(24x/13)+(x/6)=157x/78
+Fraction of the total envelope unused=(157x/78)/3x=157/234
+
+
+6)A printer begins printing forms at 9.33 AM,at the rate of 66 forms per minute ,another printer begins at 9.50 AM ,printing 77 forms per minute .At what time will the two printers have printed the same number of forms?
+
+ANS:
+------
+
+66*60/t = 77 *60/t+17
+6t+102=7t
+t = 102 i.e 1 hr42 min
+ans is 11:20 Am
+
+7)A printer can print 17000 billing state ments in an hour .one day,the printer began printingat 1.26am,the printing was interupted twice.fr 50mins each time .the job was finished at 6.06pm.hw many statements did the printer printer?
+
+ANS:
+-------
+1:26-6.06= 16.80 hrs. = 1040 minutes
+Printer was interrupted twice for 2 minutes
+therfor 50*2=100 minutes
+printerd worked for 1040-100 = 940 minutes.
+60 minutes----------17000 statements
+1minut--------------17000/60
+940 minutes-------- 17000x940/60 = 266,333 statements per minute
+
+8)in a grass field, If there are 40 cows, they could eat for 40 days. If there are 30 cows, they could eat for 60 days. Than if 20 cows, How much day they could eat?
+
+ANS:
+------
+40 COWS TAKE 4O DAYS
+AND 30 COWS TAKE 60 DAYS
+ITS OBVIOUS THAT 10 COWS LESS 20 DAYS MORE 
+SO 20 COWS WILL TAKE 80 DAYS
+
+9)4 thieves entere a bakery and stoled bread one after the other.Each one took half of the total number of breads+half a loaf.If 3 breads were remaining what is the total number of breads.
+
+10)A person has Rs 100/- in his pocket, he can as 25 pencils or 15books. He kept 15% of the money for travelling expenses and purchased 5 pencils.So how many books he can purchase with the remaining money.
+
+ANS:
+------
+10 books+ 5rs remaining
+
+11)There are 20,6 and 9 rupees notes. you have to form 99 rupeeswith minimum number of notes.At what minimum number of notes youcan achieve this?
+
+ANS:
+------
+20*3 = 60
+6*2 = 12
+9*2 = 18
+9*1 = 9
+--- ---
+8 99
+--- ---
+8 notes
+
+12)In a square , all the mid points are joined. the inner squareis shaded. If the area of the square is A, what is the shaded area?
+
+ANS:
+-------
+A/2
+
+13)In a soap company,a soap is manufactured with 11 parts.....for making one soap,u will get one part as a scrap...at the end of the day,u have 251 such scraps....from that ,how many soaps can be manufactured?
+
+ANS:
+--------
+25scraps.
+when we 251/11 we get quo=22(i) rem=9. 
+1 soap = 11 parts we get 1 scrap.
+from 22 soaps we get 22 scraps.
+22+9 =31 scraps => 2 soaps(ii)+2scraps+9scraps
+2scraps+9scraps = 11scraps = 1 soap(iii).
+Total = 22+2+1=25soaps.
+
+14)A Bacteria is doubling at every 4 min. After 40 min 1024 bact. At wat time there will be 256 bacteria?
+
+ANS:
+-------
+Calculating backwards...
+40 min - 1024
+36 min - 512
+32 min - 256
+
+15)A letter has to be printed as 100 lines with 50 character per line,if the printer can print 40 character per line,how many lines it will take?
+
+ANS:
+
+100 lines with 50 character per line, thus total number of characters to be printed= 100*50=5000;
+Now, if the printer is printing 40 charcters per line, total number of lines required= 5000/40=125 lines
+
+16)In a bus left side there are 19 seats available,2 fewer seats in right side,two people can sit in a seat,last seat capacity is 5,then how many people can sit in the bus?
+
+ANS:
+77 people...
+
+1 1 1 1
+1 1 1 1
+1 1 1 1
+1 1 1 1
+1 1 1 1
+1 1 1 1
+1 1 1 1
+1 1 1 1
+1 1 1 1
+1 1 1 1
+1 1 1 1
+1 1 1 1
+1 1 1 1
+1 1 1 1
+1 1 1 1
+1 1 1 1
+1 1 1 1
+1 1 1 1
+1 1 1 1 1
+
+17)A thing cost $500,the amount is decreased by 20%,then how much less must be paid?
+
+ANS:
+
+100$
+Price after 20% decrease=500-(500*20/100)=400
+Amount less to be paid=500-400=100
+
+18)In a software company 2/6 of people know C++,1/2 of them know java,1/5 of them know neither,find the total possibility to know C++?
+
+
+
+

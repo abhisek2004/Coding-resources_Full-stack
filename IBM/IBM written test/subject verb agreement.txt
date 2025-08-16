@@ -1,0 +1,161 @@
+talks, talk
+Which one is the singular form?
+Which word would you use with he?
+We say, "He talks." Therefore, talks is singular.
+We say, "They talk." Therefore, talk is plural.
+
+Rule 1:
+------------
+Two singular subjects connected by or or nor require a singular verb.
+
+Example:
+-------------
+My aunt or my uncle is arriving by train today.
+
+Rule 2
+---------
+Two singular subjects connected by either/or or neither/nor require a singular verb as in Rule 1.
+
+Examples:
+---------------
+Neither Juan nor Carmen is available.
+Either Kiana or Casey is helping today with stage decorations.
+
+Rule 3
+----------
+When I is one of the two subjects connected by either/or or neither/nor, put it second and follow it with the singular verb am.
+
+Example:
+------------
+Neither she nor I am going to the festival.
+
+Rule 4
+---------
+When a singular subject is connected by or or nor to a plural subject, put the plural subject last and use a plural verb.
+
+Example:
+------------
+The serving bowl or the plates go on that shelf.
+
+Rule 5
+---------
+When a singular and plural subject are connected by either/or or neither/nor, put the plural subject last and use a plural verb.
+
+Example:
+-------------
+Neither Jenny nor the others are available.
+
+Rule 6
+----------
+As a general rule, use a plural verb with two or more subjects when they are connected by and.
+
+Example:
+-------------
+A car and a bike are my means of transportation.
+
+Rule 7
+---------
+Sometimes the subject is separated from the verb by words such as along with, as well as, besides, or not. Ignore these expressions when determining whether to use a singular or plural verb.
+
+Examples:
+---------------
+The politician, along with the newsmen, is expected shortly.
+Excitement, as well as nervousness, is the cause of her shaking.
+
+Rule 8
+---------
+The pronouns each, everyone, every one, everybody, anyone, anybody, someone, and somebody are singular and require singular verbs. Do not be misled by what follows of.
+
+Examples:
+--------------
+Each of the girls sings well.
+Every one of the cakes is gone.
+
+NOTE: Everyone is one word when it means everybody. Every one is two words when the meaning is each one.
+
+Rule 9
+----------
+With words that indicate portions—percent, fraction, part, majority, some, all, none, remainder, and so forth —look at the noun in your of phrase (object of the preposition) to determine whether to use a singular or plural verb. If the object of the preposition is singular, use a singular verb. If the object of the preposition is plural, use a plural verb.
+
+Examples:
+-------------
+Fifty percent of the pie has disappeared.
+Pie is the object of the preposition of.
+Fifty percent of the pies have disappeared.
+Pies is the object of the preposition.
+One-third of the city is unemployed.
+One-third of the people are unemployed.
+
+NOTE: Hyphenate all spelled-out fractions.
+
+All of the pie is gone.
+All of the pies are gone.
+Some of the pie is missing.
+Some of the pies are missing.
+None of the garbage was picked up.
+None of the sentences were punctuated correctly.
+Of all her books, none have sold as well as the first one.
+
+NOTE: Apparently, the SAT testing service considers none as a singular word only. However, according to Merriam Webster's Dictionary of English Usage, "Clearly none has been both singular and plural since Old English and still is. The notion that it is singular only is a myth of unknown origin that appears to have arisen in the 19th century. If in context it seems like a singular to you, use a singular verb; if it seems like a plural, use a plural verb. Both are acceptable beyond serious criticism" (p. 664).
+
+Rule 10
+----------
+The expression the number is followed by a singular verb while the expression a number is followed by a plural verb.
+
+Examples:
+--------------
+The number of people we need to hire is thirteen.
+A number of people have written in about this subject.
+
+Rule 11
+-----------
+When either and neither are subjects, they always take singular verbs.
+
+Examples:
+---------------
+Neither of them is available to speak right now.
+Either of us is capable of doing the job.
+
+Rule 12
+-----------
+The words here and there have generally been labeled as adverbs even though they indicate place. In sentences beginning with here or there, the subject follows the verb.
+
+Examples:
+--------------
+There are four hurdles to jump.
+There is a high hurdle to jump.
+
+Rule 13
+-----------
+Use a singular verb with sums of money or periods of time.
+
+Examples:
+---------------
+Ten dollars is a high price to pay.
+Five years is the maximum sentence for that offense.
+
+Rule 14
+------------
+Sometimes the pronoun who, that, or which is the subject of a verb in the middle of the sentence. The pronouns who, that, and which become singular or plural according to the noun directly in front of them. So, if that noun is singular, use a singular verb. If it is plural, use a plural verb.
+
+Examples:
+---------------
+Salma is the scientist who writes the reports.
+The word in front of who is scientist, which is singular. Therefore, use the singular verb writes.
+He is one of the men who does/do the work.
+The word in front of who is men, which is plural. Therefore, use the plural verb do.
+
+Rule 15
+-----------
+Collective nouns such as team and staff may be either singular or plural depending on their use in the sentence.
+
+Examples:
+-------------
+The staff is in a meeting.
+note:
+Staff is acting as a unit here.
+
+The staff are in disagreement about the findings.
+The staff are acting as separate individuals in this example.
+The sentence would read even better as:
+The staff members are in disagreement about the findings.

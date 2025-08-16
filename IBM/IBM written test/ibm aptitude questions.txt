@@ -1,0 +1,99 @@
+1)The printed price on a book is 400, a bookseller offers a 10% discount on it. If he still earns a profit of 12&, the CP of the book is
+a) 280
+b) 352
+c) 360
+d) 300
+
+2) What sum of money will accumulate to Rs.5300 at 8% rate of interest in 9 months?
+a)5000
+b)5400
+c)4500
+d)4000
+
+
+3)If 19 and 1140 are the respective HCF and LCM of two numbers, which are greater than 19 then what will be the possible number of such pair?
+
+4)IN a lawn,grass grows equally thick and uniform rate every day.It takes 24days for 70 cows to graze and 60 days for 30 cows.How many cows are required to graze lawn in 96 days.
+
+ANS:
+------
+
+
+
+5)FOR A POETRY CONCERT OF 30 MINS A POET TAKES 1 HOUR FOR WRITING THE POEM AND 6 HOURS TO REHEARSAL.HOW MUCH TIME WILL TAKE THE POET FOR 90 HOUR CONCERT?
+
+6)company A rented a truck $1000 per month. company B purchased the same type of truck for $35000.in addition company B paid $120 monthly maintenance charges.what is relative cost to the competing company for this type of truck after 6 years of operation
+
+7)a printer begin printing at 7:54 am,at the rate of 104 forms per min. another printer begin at 8:20am. printing 117 forms per min. at what time will the two printer have printed the same number of forms
+
+ANS:
+--------
+first printer starts at 7.54
+2nd printer starts at 8.20
+difference is 26 mins
+during this 26 mins first printer prints (26*104) = 2704 forms
+take the time as 'x' in which both printer prints same no of forms.
+so...
+117*x = 2704+(104*x)
+13x = 2704
+x = 208 mins
+which is 3 hrs 28 mins...
+so 8.20 + 2.28 = 11.44am
+
+8)in a library there are 5 computer cluster open for public use.each computer cluster consist 33 laptop.in first week 75 laptop are used.in second week 155 laptop used ,in third week 30 laptop and in fourth week 160 laptop used.what fraction of library computer are in used in month?
+a)3/5
+b)2/7
+c)2/3
+d)1/14
+e)1/4
+
+ANS:
+--------
+9)a container of production line solvent is mixed at 22% strength and another is mixed at 53% strength.to obtain 12 liter of a mixture that is 25% strength,how many liter should be used from the container that is mixed at 53% strength?
+a)4 liters
+b)1 5/31liters
+c)2 16/25 liters
+d)5 35/53 liters
+e)4/59
+
+10)a company decided to install a fountain within it main entrance lobby.if fountain is to be 148 cm wide 297 long and 91 cm deep,how much water would be required to feel the fountain to a depth of 69cm?(1liter=1000 cubic centimeters)
+a)4000
+b)5140
+c)967
+d)5360
+e)3033
+
+11)In a certain company 20% of the men and 40% of the women
+attended the annual company picnic.If 35% of all the emplo-
+yees are men .What % of all the employee went to the picnic?
+
+12)A company instaled 36 punching machines at the begining of
+the year.In the spring they instaled 9 additional m/c's
+and th
+(Ans is 9)check
+
+13) company has offices in 2 buildings.53% of the copying machines in the 1st building and 48% of the copying machines in the 2nd building received preventive maintanance last month. if 42% of the company copying machines are in the 1st building then what % of all the copying machines received preventive maintanance last month?
+
+14)Two solutions of 90% and 97% purity are mixed resulting in 21 litres of mixture of 94% purity. How much is the quantity of the first solution in the resulting mixture?
+
+15)8 chairs are numbered from 1 to 8. Two women first choose two chairs from those marked 1 to 4 and 3 men selects 3 chairs from the remaining. Find the number of possible arrangements
+
+16)A thermal chimney of circular cross section has outer and inner radii of 3m and 2m respectively. Find the cost of cement finishing for the inner and outer surface at Rs20 per sq.meter, if the height of the chimney is 56m.
+
+17)A set of 7 pens, 9 erasers and 11 sharpeners costs Rs 79 and 2 pens, 5 erasers and 8 sharpeners cost Rs 42. Find the total cost of one sharpeners, one eraser and one pen.
+
+18)A father of 6 children takes 2 of his children at a time to a circus as often as he can, without taking the same pair of children together more than once. How many times does the father go to the circus?
+
+19)A person can buy 50 cds with $135 and 15 dvds with $100 nikitha has a budjet of $1680 for cds & budget of $150 for dvds 
+How many cds & dvds in total can she buy?
+
+20)A women uses 150 clips to pin 20 pages. How many clips will be required to pin 230 pages??
+
+21)A jar contains 2 red, 3 blue, and 4 green marbles. Niki draws one marble from the jar, and then Tom draws a marble. What is the probability that Niki will draw a green marble and Tom will draw a blue marble?
+
+22)There are 9 popsicles: 3 orange, 3 cherry, 3 grape. There are 4 children. What is the probability that all 4 children will get the flavor of their choice?
+
+23)Three people each toss a penny at the same time. What is the probability that two people get the same side of the penny and the other person gets the opposite side?
+
+24)
+

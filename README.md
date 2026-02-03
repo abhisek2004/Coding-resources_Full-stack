@@ -15,7 +15,6 @@ I’m also an **🌍 Open Source Contributor**, always eager to learn, build, an
 
 ---
 
-
 ## 💻 What I Love to Do
 
 - 🎨 Craft **immersive user experiences** through **Frontend Development**.

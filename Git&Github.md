@@ -38,7 +38,6 @@
 1. Download from [Git Official Website](https://git-scm.com)
 2. Run the installer.
 3. Choose:
-
    - ✅ Use Git from Windows Command Prompt
    - ✅ Checkout Windows-style, commit Unix-style line endings
 
@@ -275,11 +274,11 @@ node_modules/
 
 ## 🛠️ 15. Git Tools and GUIs
 
-| Tool                | Description          |
-| ------------------- | -------------------- |
-| 💻 **VS Code**      | Built-in Git support |
-| 🐙 **GitKraken**    | Visual Git client    |
-| 🌳 **Sourcetree**   | Free Git GUI         |
+| Tool                 | Description          |
+| -------------------- | -------------------- |
+| 💻 **VS Code**       | Built-in Git support |
+| 🐙 **GitKraken**     | Visual Git client    |
+| 🌳 **Sourcetree**    | Free Git GUI         |
 | 🛠 **IntelliJ IDEA** | Integrated Git tools |
 
 ---
@@ -542,5 +541,11 @@ I’m **poised** to contribute my skills and enthusiasm to **projects that make 
 ---
 
 🔥 _Let’s code, collaborate, and create something amazing together!_ 🚀💻
+
+---
+
+---
+
+---
 
 ---

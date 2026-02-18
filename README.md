@@ -10,7 +10,7 @@
 
 I'm **Abhisek Panda** 👨‍🎓, currently pursuing my **Bachelor of Technology (B.Tech)** in **Computer Science** 💻 **Final Year** 🎓.
 
-💡 My tech journey is driven by a **passion** for mastering the **✨ MERN Stack**, along with strong skills in **☕ Java** and **📊 Data Structures & Algorithms (DSA)**.
+<!---💡 My tech journey is driven by a **passion** for mastering the **✨ MERN Stack**, along with strong skills in **☕ Java** and **📊 Data Structures & Algorithms (DSA)**.
 I’m also an **🌍 Open Source Contributor**, always eager to learn, build, and share knowledge with the community.
 
 ---
@@ -32,6 +32,7 @@ I’m also an **🌍 Open Source Contributor**, always eager to learn, build, an
 I’m **poised** to contribute my skills and enthusiasm to **projects that make a difference**.
 
 ---
+--->
 
 ## 📬 Let’s Connect & Collaborate
 

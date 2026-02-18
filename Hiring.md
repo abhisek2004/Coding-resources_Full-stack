@@ -105,8 +105,3 @@ I’m **poised** to contribute my skills and enthusiasm to **projects that make 
 
 ---
 
----
-
----
-
----
